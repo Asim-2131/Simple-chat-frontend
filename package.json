@@ -1,6 +1,7 @@
 {
   "name": "simple-chat-frontend",
   "version": "0.1.0",
+  "homepage": "https://asim-2131.github.io/chat-frontend",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
