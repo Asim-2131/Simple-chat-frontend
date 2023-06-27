@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/chat-frontend/static/css/main.e29c3469.css",
-    "main.js": "/chat-frontend/static/js/main.0cded800.js",
+    "main.css": "/chat-frontend/static/css/main.edc140c8.css",
+    "main.js": "/chat-frontend/static/js/main.0dba1957.js",
     "static/js/787.9289bf26.chunk.js": "/chat-frontend/static/js/787.9289bf26.chunk.js",
     "static/media/login-background.jpg": "/chat-frontend/static/media/login-background.495f021f4b1fc8b9c0de.jpg",
     "static/media/empty-selection.svg": "/chat-frontend/static/media/empty-selection.efb2dfc28ac837d33b16820a1d9dadea.svg",
     "index.html": "/chat-frontend/index.html",
     "static/media/add-person.svg": "/chat-frontend/static/media/add-person.54b70155b9aedd1a5b6587ac0958e77e.svg",
     "static/media/send.svg": "/chat-frontend/static/media/send.c4534ab76c939183aa32c15a50811942.svg",
-    "main.e29c3469.css.map": "/chat-frontend/static/css/main.e29c3469.css.map",
-    "main.0cded800.js.map": "/chat-frontend/static/js/main.0cded800.js.map",
+    "main.edc140c8.css.map": "/chat-frontend/static/css/main.edc140c8.css.map",
+    "main.0dba1957.js.map": "/chat-frontend/static/js/main.0dba1957.js.map",
     "787.9289bf26.chunk.js.map": "/chat-frontend/static/js/787.9289bf26.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e29c3469.css",
-    "static/js/main.0cded800.js"
+    "static/css/main.edc140c8.css",
+    "static/js/main.0dba1957.js"
   ]
 }
