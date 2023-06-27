@@ -1,13 +1,34 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500&family=Prompt:wght@100;200;300;400;500;600&display=swap');
+
+
+.login-image{
+  background-image: url('./assets/Images/login-background.jpg');
+  background-position: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+  height : 100vh;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+::-webkit-scrollbar {
+  width: 0.2rem;
+  background-color:rgba(236,236,241,0);
+}
+
+*:hover::-webkit-scrollbar-thumb{
+  background-color: rgb(87, 87, 126);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #e3f1fd;
+  border-color: rgba(255,255,255,1);
+  border-radius: 9999px;
+  border-width: 1px;
+}
+::-webkit-scrollbar-track {
+  background-color: transparent;
+  border-radius: 9999px;
 }
